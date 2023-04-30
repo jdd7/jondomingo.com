@@ -1,0 +1,2 @@
+# jondomingo.com
+portfolio
